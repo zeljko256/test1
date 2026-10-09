@@ -1,2 +1,4 @@
 ovo je specifikacija projekta
 
+ovaj dio je dodan na windows laptopu
+
