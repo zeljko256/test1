@@ -6,3 +6,6 @@ print ("Hello world", student)
 #ovo je dodano na windows laptopu
 
 print ("\n dodajemo novu liniju koda")
+
+#pulled to new branch sub1 
+
